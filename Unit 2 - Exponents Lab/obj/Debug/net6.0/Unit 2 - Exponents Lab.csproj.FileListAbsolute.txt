@@ -1,0 +1,15 @@
+/Users/nik.kuehn/Projects/Unit 2 - Exponents Lab App/Unit 2 - Exponents Lab/bin/Debug/net6.0/Unit 2 - Exponents Lab
+/Users/nik.kuehn/Projects/Unit 2 - Exponents Lab App/Unit 2 - Exponents Lab/bin/Debug/net6.0/Unit 2 - Exponents Lab.deps.json
+/Users/nik.kuehn/Projects/Unit 2 - Exponents Lab App/Unit 2 - Exponents Lab/bin/Debug/net6.0/Unit 2 - Exponents Lab.runtimeconfig.json
+/Users/nik.kuehn/Projects/Unit 2 - Exponents Lab App/Unit 2 - Exponents Lab/bin/Debug/net6.0/Unit 2 - Exponents Lab.dll
+/Users/nik.kuehn/Projects/Unit 2 - Exponents Lab App/Unit 2 - Exponents Lab/bin/Debug/net6.0/Unit 2 - Exponents Lab.pdb
+/Users/nik.kuehn/Projects/Unit 2 - Exponents Lab App/Unit 2 - Exponents Lab/obj/Debug/net6.0/Unit 2 - Exponents Lab.csproj.AssemblyReference.cache
+/Users/nik.kuehn/Projects/Unit 2 - Exponents Lab App/Unit 2 - Exponents Lab/obj/Debug/net6.0/Unit 2 - Exponents Lab.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nik.kuehn/Projects/Unit 2 - Exponents Lab App/Unit 2 - Exponents Lab/obj/Debug/net6.0/Unit 2 - Exponents Lab.AssemblyInfoInputs.cache
+/Users/nik.kuehn/Projects/Unit 2 - Exponents Lab App/Unit 2 - Exponents Lab/obj/Debug/net6.0/Unit 2 - Exponents Lab.AssemblyInfo.cs
+/Users/nik.kuehn/Projects/Unit 2 - Exponents Lab App/Unit 2 - Exponents Lab/obj/Debug/net6.0/Unit 2 - Exponents Lab.csproj.CoreCompileInputs.cache
+/Users/nik.kuehn/Projects/Unit 2 - Exponents Lab App/Unit 2 - Exponents Lab/obj/Debug/net6.0/Unit 2 - Exponents Lab.dll
+/Users/nik.kuehn/Projects/Unit 2 - Exponents Lab App/Unit 2 - Exponents Lab/obj/Debug/net6.0/refint/Unit 2 - Exponents Lab.dll
+/Users/nik.kuehn/Projects/Unit 2 - Exponents Lab App/Unit 2 - Exponents Lab/obj/Debug/net6.0/Unit 2 - Exponents Lab.pdb
+/Users/nik.kuehn/Projects/Unit 2 - Exponents Lab App/Unit 2 - Exponents Lab/obj/Debug/net6.0/Unit 2 - Exponents Lab.genruntimeconfig.cache
+/Users/nik.kuehn/Projects/Unit 2 - Exponents Lab App/Unit 2 - Exponents Lab/obj/Debug/net6.0/ref/Unit 2 - Exponents Lab.dll
